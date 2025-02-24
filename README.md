@@ -2,6 +2,7 @@
 👋 About Me<br>Hello, world! I'm SK3CHIE, a tech enthusiast and software developer in the making from Nairobi, Kenya. Currently, I'm a student at Multimedia University and pursuing a deep dive into software development at GoMyCode. 🚀<br><br>🔭 I’m working on:<br><br>Building a website to monitor government projects 📊<br>Kickstarting my content creation brand, TechTinker (YouTube, TikTok, Telegram). 🎥<br>🌱 I’m learning:<br><br>Frontend & Backend Development 💻<br>Tech trends, AI , Robotics 🤖<br>🎯 Goals for 2025:<br><br>Launch my government projects website<br>Grow TechTinker into a top tech content brand<br>. 🌍<br>📫 Reach out to me:<br><br>🌐<br>🐦 Twitter: [@SK3CHIE]<br>📧 Email: [vomollo101@gmail.com]<br>💬 Fun Fact:<br>I believe life is like an experiment—the more you try, the better you become! 🧪<br><br>Let’s build, innovate, and inspire together! <br><br>
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@SK3CHIE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vomollo101@gmail.com) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@SK3CHIE) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SK3CHIE) 
 
