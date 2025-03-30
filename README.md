@@ -13,18 +13,6 @@
 🎥 **TechTinker** – My tech content brand on **YouTube, TikTok & Telegram**  
 
 ---
-
-## 🌱 **Currently Learning:**  
-🖥 **Full-Stack Development** (Next.js, Tailwind, Firebase)  
-☁ **Cloud & AI** (AWS, Machine Learning)  
-🔒 **Cybersecurity** (Web security & ethical hacking)  
-
----
-
-## 🎯 **2025 Goals:**  
-✅ **Launch MMU LMS & Gov Projects Site**  
-✅ **Grow TechTinker into a top tech content brand**  
-
 ---
 
 ## 🌐 **Socials:**  
