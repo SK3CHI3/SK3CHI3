@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hey, I'm **SK3CHIE!**  
 💻 **Software Developer | Certified Cloud Practitioner | Cybersecurity Analyst | AI Engineer**  
 📚 **Student at Multimedia University** | **Software Engineering at PLP Africa & AWS Cloud**  
@@ -5,17 +7,17 @@
 ---
 
 ## 🔭 **Currently Building:**  
-- 🌐 **[Universal Resource Hub](https://universal-resource-hub.netlify.app/)** – A free **learning resource hub** 📚  
-- 🚀 **[MMU LMS Rebuild](#)** – A better **e-learning platform** for my university  
-- 🏛 **Government Projects Website** – Tracking & monitoring projects 📊  
-- 🎥 **TechTinker** – My tech content brand on **YouTube, TikTok & Telegram**  
+🌐 **[Universal Resource Hub](https://universal-resource-hub.netlify.app/)** – A free **learning resource hub** 📚  
+🚀 **[MMU LMS Rebuild](#)** – A better **e-learning platform** for my university  
+🏛 **Government Projects Website** – Tracking & monitoring projects 📊  
+🎥 **TechTinker** – My tech content brand on **YouTube, TikTok & Telegram**  
 
 ---
 
 ## 🌱 **Currently Learning:**  
-- **Full-Stack Development** (Next.js, Tailwind, Firebase)  
-- **Cloud & AI** (AWS, Machine Learning)  
-- **Cybersecurity** (Web security & ethical hacking)  
+🖥 **Full-Stack Development** (Next.js, Tailwind, Firebase)  
+☁ **Cloud & AI** (AWS, Machine Learning)  
+🔒 **Cybersecurity** (Web security & ethical hacking)  
 
 ---
 
@@ -33,6 +35,9 @@
 ---
 
 💡 **Fun Fact:** *Life is an experiment—the more you try, the better you get!* 🧪  
+
+</div>
+ 
  <br><br>
 
 
