@@ -1,5 +1,39 @@
-#  About Me:
-👋 About Me<br>Hello, world! I'm SK3CHIE, a tech enthusiast and software developer in the making from Nairobi, Kenya. Currently, I'm a student at Multimedia University and pursuing a deep dive into software development at GoMyCode. 🚀<br><br>🔭 I’m working on:<br><br>Building a website to monitor government projects 📊<br>Kickstarting my content creation brand, TechTinker (YouTube, TikTok, Telegram). 🎥<br>🌱 I’m learning:<br><br>Frontend & Backend Development 💻<br>Tech trends, AI , Robotics 🤖<br>🎯 Goals for 2025:<br><br>Launch my government projects website<br>Grow TechTinker into a top tech content brand<br>. 🌍<br>📫 Reach out to me:<br><br>🌐<br>🐦 Twitter: [@SK3CHIE]<br>📧 Email: [vomollo101@gmail.com]<br>💬 Fun Fact:<br>I believe life is like an experiment—the more you try, the better you become! 🧪<br><br>Let’s build, innovate, and inspire together! <br><br>
+# 👋 Hey, I'm **SK3CHIE!**  
+💻 **Software Developer | Certified Cloud Practitioner | Cybersecurity Analyst | AI Engineer**  
+📚 **Student at Multimedia University** | **Software Engineering at PLP Africa & AWS Cloud**  
+
+---
+
+## 🔭 **Currently Building:**  
+- 🌐 **[Universal Resource Hub](https://universal-resource-hub.netlify.app/)** – A free **learning resource hub** 📚  
+- 🚀 **[MMU LMS Rebuild](#)** – A better **e-learning platform** for my university  
+- 🏛 **Government Projects Website** – Tracking & monitoring projects 📊  
+- 🎥 **TechTinker** – My tech content brand on **YouTube, TikTok & Telegram**  
+
+---
+
+## 🌱 **Currently Learning:**  
+- **Full-Stack Development** (Next.js, Tailwind, Firebase)  
+- **Cloud & AI** (AWS, Machine Learning)  
+- **Cybersecurity** (Web security & ethical hacking)  
+
+---
+
+## 🎯 **2025 Goals:**  
+✅ **Launch MMU LMS & Gov Projects Site**  
+✅ **Grow TechTinker into a top tech content brand**  
+
+---
+
+## 📫 **Let's Connect!**  
+🌍 **Portfolio:** [Omollo Victor Portfolio](https://omollo-victor-potfolio.netlify.app/)  
+🐦 **Twitter:** [@sk3chie](https://x.com/sk3chie)  
+📧 **Email:** vomollo101@gmail.com  
+
+---
+
+💡 **Fun Fact:** *Life is an experiment—the more you try, the better you get!* 🧪  
+ <br><br>
 
 
 
