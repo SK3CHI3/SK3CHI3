@@ -57,7 +57,12 @@
 ## 📊 **GitHub Stats:**  
 ![](https://github-readme-stats.vercel.app/api?username=SK3CHI3&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SK3CHI3&theme=github_dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SK3CHI3&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+
+---
+
+## 🔥 **Most Used Languages:**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SK3CHI3&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)  
+  
 
 ---
 
