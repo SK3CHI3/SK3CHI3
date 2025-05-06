@@ -1,8 +1,8 @@
 <div align="center">
 
 # 👋 Hey, I'm **SK3CHIE**  
-💻 **Software Developer | Certified Cloud Practitioner | Cybersecurity Analyst | AI Engineer**  
-📚 **Student at Multimedia University** | **Software Engineering at PLP Africa & AWS Cloud**  
+💻 **Full-Stack Software Engineer | Certified Cloud Practitioner (AWS) **  
+
 
 ---
 
