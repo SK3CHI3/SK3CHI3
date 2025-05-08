@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm **SK3CHIE**  
-💻 **Full-Stack Software Engineer | Certified Cloud Practitioner (AWS)**  
+**Full-Stack Software Engineer | Certified Cloud Practitioner (AWS)**  
 
 
 ---
