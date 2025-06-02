@@ -8,7 +8,7 @@
 
 ## 🔭 **Currently Building:**  
 🌐 **[Universal Resource Hub](https://universal-resource-hub.netlify.app/)** – A free **learning resource hub** 📚  
-🚀 **[MMU LMS Rebuild](https://mmuelaerning.netlify.app/)** – A better **e-learning platform** for my university  
+🚀 **[MMU LMS Rebuild](https://mmu-e-learning.netlify.app/)** – A better **e-learning platform** for my university  
 🏛 **Government Projects Website** – Tracking & monitoring projects 📊   
 🎥 **TechTinker** – My tech content brand on **YouTube, TikTok & Telegram**  
 
