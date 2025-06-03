@@ -1,70 +1,64 @@
 <div align="center">
 
 # 👋 Hey, I'm **SK3CHIE**  
-**Full-Stack Software Engineer | Certified Cloud Practitioner (AWS)**  
-
-
----
-
-## 🔭 **Currently Building:**  
-🌐 **[Universal Resource Hub](https://universal-resource-hub.netlify.app/)** – A free **learning resource hub** 📚  
-🚀 **[MMU LMS Rebuild](https://mmu-e-learning.netlify.app/)** – A better **e-learning platform** for my university  
-🏛 **Government Projects Website** – Tracking & monitoring projects 📊   
-🎥 **TechTinker** – My tech content brand on **YouTube, TikTok & Telegram**  
-
----
- 
-## 🌐 **Socials:**  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@SK3CHIE)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vomollo101@gmail.com)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@SK3CHIE)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SK3CHIE)  
+**Full-Stack Dev | AWS Cloud Practitioner | Founder @ [Brandy](brandyshop.netlify.app)**  
 
 ---
 
-## 💻 **Tech Stack:**  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+## 🚧 Currently Building  
+<p align="center">
+🌐 <strong><a href="https://universal-resource-hub.netlify.app/">Universal Resource Hub</a></strong> – Free learning resources  
+<br/>
+🎓 <strong><a href="https://mmu-e-learning.netlify.app/">MMU LMS Rebuild</a></strong> – Clean e-learning platform  
+<br/>
+🏛 <strong>Government Projects Tracker</strong> – Transparency for national projects  
+<br/>
+🛍 <strong><a href="https://brandyshop.netlify.app">BrandyShop</a></strong> – Artist-led e-commerce  
+<br/>
+📲 <strong><a href="https://t.me/techtinker0">TechTinker</a></strong> – Tech tutorials hub  
+</p>
 
 ---
 
-## 📊 **GitHub Stats:**  
-![](https://github-readme-stats.vercel.app/api?username=SK3CHI3&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=SK3CHI3&theme=github_dark&hide_border=false)  
-
----
-
-## 🔥 **Most Used Languages:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SK3CHI3&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)  
-  
-
----
-
-## 🏆 **GitHub Trophies:**  
-![](https://github-profile-trophy.vercel.app/?username=SK3CHI3&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
-
----
-
-### 🔝 **Top Contributed Repo:**  
-![](https://github-contributor-stats.vercel.app/api?username=SK3CHI3&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=SK3CHI3&icon=0&color=0)](https://visitcount.itsvg.in)  
-
-💡 **Fun Fact:** *Life is an experiment—the more you try, the better you get!* 🧪  
-
+## 💻 Tech Stack  
 </div>
+
+<p align="center" style="zoom: 1.3;">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+<p align="center" style="zoom: 1.3;">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+<p align="center" style="zoom: 1.3;">
+  <img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+  <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+<p align="center" style="zoom: 1.3;">
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+</p>
+
+---
+
+<div align="center">
+
+## 🌍 Socials  
+</div>
+
+<p align="center" style="zoom: 1.2;">
+  <a href="https://instagram.com/sk3chie"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/omollo-victor-28b942356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/sk3chie"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://tiktok.com/@sk3chie"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://t.me/techtinker0"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
