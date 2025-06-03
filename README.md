@@ -23,7 +23,7 @@
 ## 💻 Tech Stack  
 </div>
 
-<p align="center" style="zoom: 1.3;">
+<p align="center" style="zoom: 2.9;">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ffdd54"/>
