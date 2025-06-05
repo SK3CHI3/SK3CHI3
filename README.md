@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm **SK3CHIE**  
-**Full-Stack Dev | AWS Cloud Practitioner | Founder @ [Brandy](brandyshop.netlify.app)**  
+**Full-Stack Eng | AWS Cloud Practitioner | Founder @ [Brandy](brandyshop.netlify.app)**  
 
 ---
 
