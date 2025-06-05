@@ -9,7 +9,7 @@
 <p align="center">
 🌐 <strong><a href="https://universal-resource-hub.netlify.app/">Universal Resource Hub</a></strong> – Free learning resources  
 <br/>
-🎓 <strong><a href="https://mmu-e-learning.netlify.app/">MMU LMS Rebuild</a></strong> – Clean e-learning platform  
+🎓 <strong><a href="https://mmu-e-learning.netlify.app/">MMU LMS Rebuild</a></strong> – Modern e-learning platform for my University. 
 <br/>
 🏛 <strong>Government Projects Tracker</strong> – Transparency for national projects  
 <br/>
