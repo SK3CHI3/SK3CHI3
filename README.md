@@ -2,8 +2,9 @@
 
 # 👋 Hey, I'm **SK3CHIE**  
 **Full-Stack Engineer | AWS Cloud Practitioner | Founder - [Brandy](brandyshop.netlify.app)**  
+  
 
----
+
  
 ## 🚧 Currently Building  
 <p align="center">
@@ -17,6 +18,8 @@
 <br/>
 📲 <strong><a href="https://t.me/techtinker0">TechTinker</a></strong> – Tech tutorials hub  
 </p>
+
+
 
 
 ## 💻 Tech Stack  
