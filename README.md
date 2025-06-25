@@ -5,7 +5,7 @@
 
    
   
-## 🚧 Currently Building   
+## 🚧 Completed Projects!!
 <p align="center">
 🌐 <strong><a href="https://universal-resource-hub.netlify.app/">Universal Resource Hub</a></strong> – Free learning resources  
 <br/>
