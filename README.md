@@ -9,14 +9,17 @@
 <p align="center">
 🌐 <strong><a href="https://universal-resource-hub.netlify.app/">Universal Resource Hub</a></strong> – Free learning resources  
 <br/>
-🎓 <strong><a href="https://mmu-e-learning.netlify.app/">MMU LMS Rebuild</a></strong> – Modern e-learning platform for my University. 
+🎓 <strong><a href="https://mmu-e-learning.netlify.app/">MMU LMS Rebuild</a></strong> – Modern e-learning platform for my University  
 <br/>
-🏛 <strong>Government Projects Tracker</strong> – Transparency for national projects  
+🗺 <strong><a href="https://kagua-gava.netlify.app/">KAGUA</a></strong> – Mapping government projects for public accountability  
+<br/>
+🧠 <strong><a href="https://hexai-c.netlify.app/">HEX</a></strong> – Cybersecurity AI assistant for red teamers  
 <br/>
 🛍 <strong><a href="https://brandyshop.netlify.app">BrandyShop</a></strong> – Artist-led e-commerce  
 <br/>
 📲 <strong><a href="https://t.me/techtinker0">TechTinker</a></strong> – Tech tutorials hub  
 </p>
+
 
  
 
