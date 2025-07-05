@@ -3,7 +3,7 @@
 # 👋 Hey, I'm **SK3CHIE**  
 **Full-Stack Engineer | AWS Cloud Practitioner | Founder - [Brandy](https://brandyshop.netlify.app)**  
 
-🌐 [Check out my Portfolio](https://omollo-victor.netlify.app)  
+ [My Portfolio](https://omollo-victor.netlify.app)  
     
    
 ## 🚧 Completed Projects !!
