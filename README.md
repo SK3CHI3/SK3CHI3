@@ -8,7 +8,7 @@
     
 ## 🚧 Completed Projects !!
 <div style="display: flex; justify-content: center;">
-  <div style="text-align: left;">
+  <div style="text-align: left;"> 
     🌐 <strong><a href="https://universal-resource-hub.netlify.app/">Universal Resource Hub</a></strong> – Free learning resources  
     <br/>
     🎓 <strong><a href="https://mmu-e-learning.netlify.app/">MMU LMS Rebuild</a></strong> – Modern e-learning platform for my University  
