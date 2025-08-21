@@ -11,7 +11,8 @@
   <div style="text-align: left;"> 
     🌐 <strong><a href="https://universal-resource-hub.netlify.app/">Universal Resource Hub</a></strong> – Free learning resources  
     <br/>
-    🎓 <strong><a href="https://mmu-e-learning.netlify.app/">MMU LMS Rebuild</a></strong> – Modern e-learning platform for my University (Pitched But Nver Adopted Bcoz "It Has No proven Track Recored" They said)
+    🎓 <strong><a href="https://mmu-e-learning.netlify.app/">MMU LMS Rebuild</a></strong> – Modern e-learning platform for my University 
+(Pitched But Nver Adopted Bcoz "It Has No proven Track Recored" They said)
     <br/>
     🗺 <strong><a href="https://kagua-gava.netlify.app/">KAGUA</a></strong> – Mapping government projects for public accountability  
     <br/>
