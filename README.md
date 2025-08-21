@@ -6,7 +6,7 @@
 ## [My Portfolio](https://omollo-victor.netlify.app)  
       
      
-## 🚧 Completed Projects !!
+## 🚧 Completed Projects !! 
 <div style="display: flex; justify-content: center;"> 
   <div style="text-align: left;"> 
     🌐 <strong><a href="https://universal-resource-hub.netlify.app/">Universal Resource Hub</a></strong> – Free learning resources  
