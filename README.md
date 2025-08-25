@@ -5,7 +5,7 @@
    
 ## 👉 [My Portfolio](https://omollo-victor.netlify.app)  
        
-     
+      
 ## 🚧 Completed Projects !! 
 <div style="display: flex; justify-content: center;">  
   <div style="text-align: left;">
