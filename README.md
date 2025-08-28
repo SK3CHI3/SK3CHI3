@@ -27,7 +27,7 @@
 
 
 
- (There's more)
+  (There's more)
 
  
 ## 💻 Tech Stack  
