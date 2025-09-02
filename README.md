@@ -21,7 +21,7 @@
     <br/>
     🛍 <strong><a href="https://brandyshop.netlify.app">BrandyShop</a></strong> – Artist-led e-commerce  
     <br/>
-    📲 <strong><a href="https://t.me/techtinker0">TechTinker</a></strong> – Tech tutorials hub  
+    📲 <strong><a href="https://t.me/techtinker0">TechTinker</a></strong> – Tech tutorials hub   
   </div>
 </div>
 
