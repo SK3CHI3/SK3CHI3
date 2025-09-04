@@ -17,7 +17,7 @@
     <br/>
     🗺 <strong><a href="https://kagua-gava.netlify.app/">KAGUA</a></strong> – Mapping government projects for public accountability  
     <br/>
-    🧠 <strong><a href="https://hexai-c.netlify.app/">HEX</a></strong> – Cybersecurity AI assistant for red teamers  
+    🧠 <strong><a href="https://hexai-c.netlify.app/">HEX</a></strong> – Cybersecurity AI assistant for red teamers 
     <br/>
     🛍 <strong><a href="https://brandyshop.netlify.app">BrandyShop</a></strong> – Artist-led e-commerce  
     <br/>
