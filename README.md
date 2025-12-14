@@ -30,7 +30,7 @@
   (There's more)
 
  
-## 💻 Tech Stack  
+## 💻 Tech Stack 
 </div>
 
 <p align="center" style="zoom: 2.9;">
